@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="48" viewBox="0 0 192 48" role="img" aria-label="博客 / Blog">
+  <rect x=".75" y=".75" width="190.5" height="46.5" rx="8" fill="#1f2937" stroke="#48566b" stroke-width="1.5"/>
+  <g fill="none" stroke="#99e2ce" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 17v18M18 14h6a4 4 0 0 1 4 4 4 4 0 0 1 4-4h6v18h-6a4 4 0 0 0-4 2 4 4 0 0 0-4-2h-6z"/>
+  </g>
+  <text x="115" y="30" fill="#fff" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="18" font-weight="600">博客 / Blog</text>
+</svg>

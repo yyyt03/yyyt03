@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="任宇童 · Yutong Ren — Java Backend · AI Agents · RAG" />
+  <img src="./assets/header.svg" width="100%" alt="Yutong Ren — Java Backend · AI Agents · RAG" />
 </p>
 
 <p align="center">
@@ -42,4 +42,8 @@ I'm interested in AI and its practical applications. I'm currently learning **Ja
 
 ---
 
-[个人网站 / Website](https://yyyt03.github.io/) · [博客 / Blog](https://yyyt03.github.io/blog/)
+<p align="center">
+  <a href="https://yyyt03.github.io/"><img src="./assets/website.svg" alt="🌐 个人网站 / Website" /></a>
+  &nbsp;
+  <a href="https://yyyt03.github.io/blog/"><img src="./assets/blog.svg" alt="📖 博客 / Blog" /></a>
+</p>

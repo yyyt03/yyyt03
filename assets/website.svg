@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="48" viewBox="0 0 262 48" role="img" aria-label="个人网站 / Website">
+  <rect x=".75" y=".75" width="260.5" height="46.5" rx="8" fill="#1f2937" stroke="#48566b" stroke-width="1.5"/>
+  <g fill="none" stroke="#93c5fd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="28" cy="24" r="10"/><ellipse cx="28" cy="24" rx="4.5" ry="10"/><path d="M18 24h20"/>
+  </g>
+  <text x="151" y="30" fill="#fff" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="18" font-weight="600">个人网站 / Website</text>
+</svg>
