@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="218" viewBox="0 0 1000 218" role="img" aria-labelledby="title description">
+  <title id="title">任宇童 · Yutong Ren</title>
+  <desc id="description">Java Backend · AI Agents · RAG. 保持热情。 Animated blue and teal waves.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2455b5"/>
+      <stop offset="1" stop-color="#419f94"/>
+    </linearGradient>
+    <clipPath id="frame"><path d="M0 0H1000V206C750 180 640 180 500 195S180 212 0 197Z"/></clipPath>
+  </defs>
+  <style>
+    .identity { animation: appear 1.2s ease-out both; }
+    .wave { animation: drift 16s linear infinite; }
+    .wave-back { animation-duration: 23s; animation-direction: reverse; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-500px); } }
+    @keyframes appear { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .identity, .wave { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="218" fill="url(#background)"/>
+    <g class="identity" fill="#fff" text-anchor="middle" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+      <text x="500" y="83" font-size="53" font-weight="700">任宇童 · Yutong Ren</text>
+      <text x="500" y="121" font-size="18" font-weight="500" letter-spacing=".4">Java Backend · AI Agents · RAG</text>
+      <text x="500" y="151" font-size="14" fill-opacity=".86">保持热情。 / Stay passionate.</text>
+    </g>
+    <path class="wave wave-back" d="M0 178 Q125 150 250 178 T500 178 T750 178 T1000 178 T1250 178 T1500 178 T1750 178 T2000 178 L2000 218 H0 Z" fill="#468f9d" fill-opacity=".5"/>
+    <path class="wave" d="M0 182 Q125 202 250 182 T500 182 T750 182 T1000 182 T1250 182 T1500 182 T1750 182 T2000 182 L2000 207 Q1000 215 0 200 Z" fill="#1f5e78" fill-opacity=".6"/>
+  </g>
+</svg>

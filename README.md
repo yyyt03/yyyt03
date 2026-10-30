@@ -1,10 +1,15 @@
-# 嗨，我是 Yutong Ren 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="任宇童 · Yutong Ren — Java Backend · AI Agents · RAG" />
+</p>
 
-**保持热情。 / Stay passionate.**
+<p align="center">
+  <img src="./assets/school.svg" alt="计算机技术 · 东北大学 / Computer Technology · Northeastern University" />
+  <a href="mailto:yutongren@hotmail.com"><img src="./assets/email.svg" alt="Email: yutongren@hotmail.com" /></a>
+</p>
 
 ## 👋 关于我
 
-嗨，我是 **Yutong Ren（yyyt03）**，东北大学（Northeastern University）计算机技术专业研究生。
+嗨，我是 **任宇童（Yutong Ren）**，东北大学（Northeastern University）计算机技术专业研究生。
 
 我对 AI 及其实际应用充满兴趣，目前在学习 **Java 后端开发、AI Agents 和 RAG**。喜欢理清问题的逻辑，再把想法付诸实践，也会在博客里记录学习中的理解与思考。
 
@@ -37,4 +42,4 @@ I'm interested in AI and its practical applications. I'm currently learning **Ja
 
 ---
 
-📫 [yutongren@hotmail.com](mailto:yutongren@hotmail.com) · [个人网站 / Website](https://yyyt03.github.io/) · [博客 / Blog](https://yyyt03.github.io/blog/)
+[个人网站 / Website](https://yyyt03.github.io/) · [博客 / Blog](https://yyyt03.github.io/blog/)
