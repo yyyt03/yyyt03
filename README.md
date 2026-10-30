@@ -1,4 +1,4 @@
-# Hi, I'm Yutong Ren 👋
+# 嗨，我是 Yutong Ren 👋
 
 **保持热情。 / Stay passionate.**
 
